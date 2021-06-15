@@ -1,0 +1,12 @@
+#autokeras
+jupyterlab
+tpot
+mlbox
+pandas
+numpy
+scikit-learn==0.21.3
+seaborn
+click
+click_pathlib
+#scikit-multiflow
+#git+https://github.com/NielsHoogeveen1990/autokeras

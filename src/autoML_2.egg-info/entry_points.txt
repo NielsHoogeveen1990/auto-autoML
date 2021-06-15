@@ -1,0 +1,3 @@
+[console_scripts]
+autoML = auto_autoML.cli:main
+

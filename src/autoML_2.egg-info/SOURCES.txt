@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/autoML_2.egg-info/PKG-INFO
+src/autoML_2.egg-info/SOURCES.txt
+src/autoML_2.egg-info/dependency_links.txt
+src/autoML_2.egg-info/entry_points.txt
+src/autoML_2.egg-info/top_level.txt
+src/auto_autoML/__init__.py
+src/auto_autoML/auto_pipeline.py
+src/auto_autoML/cli.py
+src/auto_autoML/utils.py
+src/auto_autoML/auto_preprocessing/__init__.py
+src/auto_autoML/auto_preprocessing/auto_cardinality_remover.py
+src/auto_autoML/auto_preprocessing/auto_drift_detector.py
+src/auto_autoML/auto_preprocessing/auto_preprocessing.py
